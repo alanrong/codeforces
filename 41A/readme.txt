@@ -1,0 +1,2 @@
+Translation
+http://codeforces.com/problemset/problem/41/A

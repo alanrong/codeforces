@@ -1,0 +1,2 @@
+Even Odds
+http://codeforces.com/problemset/problem/318/A
